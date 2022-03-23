@@ -2,8 +2,7 @@
 
 Si vous voulez faire partie du club premium github (PGC), vous devez relever les défis suivants et prouver votre maîtrise de Git/Github à l'équipe.
 
-Quel est votre surnom ? ... Sérieusement ? Parmi toutes les possibilités, tu as choisi ça ?
-Bref, c'est parti.
+Quel est votre nom d'utisateur ?
 
 ## Travailler sur votre Repo local
 Échauffons-nous rapidement avant de passer aux choses sérieuses.
@@ -19,8 +18,8 @@ Bref, c'est parti.
 - Tapez `git log`
 - Se déplacer sur `master` (`checkout master`) et tapez `git log`
 - Pousser (`push`) la branche `master` sur Github
-- Depuis master, pousser l'autre branche
-- Allez voir vos pushs sur Github
+- Depuis `master`, faites un `push`de l'autre branche
+- Allez voir vos `pushs` sur Github
 - Il est maintenant temps de fusionner votre branche sur Github !
 
 ## Les "merge" sur Github

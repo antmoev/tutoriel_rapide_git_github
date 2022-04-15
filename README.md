@@ -1,9 +1,14 @@
 # 🌱 Le tutoriel rapide de Github 🌱
+<<<<<<< Updated upstream
   🌱 Le tutoriel rapide de Github 🌱
   🌱 Le tutoriel rapide de Github 🌱
    🌱 Le tutoriel rapide de Github 🌱
   🌱 Le tutoriel rapide de Github 🌱
   🌱 Le tutoriel rapide de Github 🌱
+=======
+🌱 Le tutoriel rapide de Github 🌱
+🌱 Le tutoriel rapide de Github 🌱
+>>>>>>> Stashed changes
 
 
 REPONSE

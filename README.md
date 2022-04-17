@@ -8,7 +8,9 @@ TEST
 Si vous voulez faire partie du club premium github (PGC), vous devez relever les défis suivants et prouver votre maîtrise de Git/Github à l'équipe.
 
 Quel est votre nom d'utisateur ?
-Farah Saliha (ceci est un test pour le TP GITHUB)
+
+Farah Saliha (ceci est un test pour le TP)
+
 ## Travailler sur votre Repo local
 Échauffons-nous rapidement avant de passer aux choses sérieuses.
 

@@ -7,7 +7,7 @@ Quel est votre nom d'utisateur ?
 ## Travailler sur votre Repo local
 Échauffons-nous rapidement avant de passer aux choses sérieuses.
 
-- Créez un nouveau `repo` vide sur Github.com en suivant les règles de nommage du laboratoire : `NNNp_MonPremierRepo`
+- Créez un nouveau `repo` vide sur Github.com en suivant les règles de nommage du laboratoire : `Ayoub_AkalalPremierRepo`
 - Clonez-le sur votre ordinateur
 - Dans le dossier du projet, créez un nouveau fichier, tel que "made.it"
 - Ajoutez le dans le `stage`, et commitez-le avec la convention de message appropriée

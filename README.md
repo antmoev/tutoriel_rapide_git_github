@@ -32,4 +32,7 @@ Quel est votre nom d'utisateur ?
 - Prenez maintenant le temps de voir ce que vous avez fait. Comment les choses apparaissent dans Github et ainsi de suite.
 - Vous avez terminé ! Félicitations 🎉 ! !!
 
+
+##Pour devenir encore meilleur !
+
 Pour aller plus loin, amusez-vous sur l'incroyable [https://learngitbranching.js.org/?demo](https://learngitbranching.js.org/?demo=&locale=fr_FR) !

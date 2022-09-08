@@ -1,0 +1,82 @@
+body {
+    background:rgb(203, 253, 236);
+    color:black;
+    font-family:'Roboto', sans-serif;font-size:.9em;
+    line-height: 120%;
+}
+
+h1 {
+    color:#582900;
+    font-family: 'IBM Plex Serif', serif;font-size: 2.4em;
+    font-variant: initial;
+}
+
+h2 {
+    color:antiquewhite;
+    font-size: 1.8em;
+    background:#582900;
+    padding: 10px;
+    letter-spacing:.3em;
+    font-weight: lighter;
+    line-height: 115%;
+}
+
+h3 {
+    color:dodgerblue;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+hr {
+    border-top: 4px dotted rgb(58, 57, 57);
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+em,abbr {
+font-variant-caps: small-caps;
+font-weight:bolder;
+}
+
+dfn {
+    text-transform: uppercase;
+    color:black;
+}
+
+q {
+    color:blue;
+}
+
+sup{
+    vertical-align:.3em;
+}
+
+cite {
+    color:blue;
+    font-style: italic;
+}
+
+blockquote {
+    color:blue;
+    font-style: italic;
+    line-height: 150%;
+}
+
+small {
+    color:darkred;
+    font-size: .7em;
+}
+
+img {
+    width:100%;
+    height:auto;
+
+}
+
+.text_rouge {color:red;
+text-indent: 2em;
+text-align: left;
+}
+
+

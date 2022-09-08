@@ -1,10 +1,11 @@
 # 🌱 Le tutoriel rapide de Github 🌱
+🎉 On lance le nouveau défi! 🎉 🚀
 
 Si vous voulez faire partie du club premium github (PGC), vous devez relever les défis suivants et prouver votre maîtrise de Git/Github à l'équipe.
 
-Quel est votre nom d'utisateur ?
+Quel est votre nom d'utisateur ? 
 
-## Travailler sur votre Repo local
+## Travailler sur votre Repo local 🤯
 Échauffons-nous rapidement avant de passer aux choses sérieuses.
 
 - Créez un nouveau `repo` vide sur Github.com en suivant les règles de nommage du laboratoire : `NNNp_MonPremierRepo`
@@ -22,7 +23,7 @@ Quel est votre nom d'utisateur ?
 - Allez voir vos `pushs` sur Github
 - Il est maintenant temps de fusionner votre branche sur Github !
 
-## Les "merge" sur Github
+## Les "merge" sur Github 🤯
 
 - Trouvez le bouton "compare and pull request" (soit sur la première page, soit dans l'onglet "branch").
 - Cliquez sur le bouton pour commencer la fusion
